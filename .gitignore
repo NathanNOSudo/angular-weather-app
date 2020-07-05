@@ -1,3 +1,8 @@
+
+karma.conf.js
+.browserslistrc
+*.config
+*.json
 # Logs
 logs
 *.log
